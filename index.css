@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#tribute-info {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#tribute-info ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+#tribute-info li {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
